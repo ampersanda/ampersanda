@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hi, I'm Ampersanda.
+
+Front-End Web Developer, Clojure Enthusiast but currently work as a Flutter Mobile Engineer
+
+[![Twitter: ampersanda](https://img.shields.io/twitter/follow/ampersanda?style=social)](https://twitter.com/ampersanda)
+
 
 <!--
-**ampersanda/ampersanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**auliakbarh/auliakbarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
