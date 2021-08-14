@@ -2,13 +2,13 @@
 
 Front-End Web Developer, Clojure Enthusiast but currently work as a Flutter Mobile Engineer
 
-Website: [https://ampersanda.netlify.app](https://ampersanda.netlify.app)
+Website: [https://feed.ampersanda.xyz](https://feed.ampersanda.xyz)
 
 [![Twitter: ampersanda](https://img.shields.io/twitter/follow/ampersanda?style=social)](https://twitter.com/ampersanda)
 
 
 <!--
-**auliakbarh/auliakbarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ampersanda/Ampersanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
