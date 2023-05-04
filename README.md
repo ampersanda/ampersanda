@@ -2,8 +2,6 @@
 
 Front-End Web Developer, Clojure Enthusiast but currently work as a Flutter Mobile Engineer
 
-Website: [https://ampersanda.dev](https://ampersanda.dev)
-
 [![Twitter: ampersanda](https://img.shields.io/twitter/follow/ampersanda?style=social)](https://twitter.com/ampersanda)
 
 
